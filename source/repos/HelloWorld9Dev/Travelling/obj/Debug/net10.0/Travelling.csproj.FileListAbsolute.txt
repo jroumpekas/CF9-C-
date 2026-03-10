@@ -1,0 +1,14 @@
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\bin\Debug\net10.0\Travelling.exe
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\bin\Debug\net10.0\Travelling.deps.json
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\bin\Debug\net10.0\Travelling.runtimeconfig.json
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\bin\Debug\net10.0\Travelling.dll
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\bin\Debug\net10.0\Travelling.pdb
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.AssemblyInfoInputs.cache
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.AssemblyInfo.cs
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.dll
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\refint\Travelling.dll
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.pdb
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\Travelling.genruntimeconfig.cache
+C:\Users\jimro\source\repos\HelloWorld9Dev\Travelling\obj\Debug\net10.0\ref\Travelling.dll
